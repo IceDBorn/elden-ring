@@ -11,3 +11,4 @@ log.txt
 !/Game/mods
 !/Game/mod_loader_config.ini
 !/Game/dinput8.dll
+!/Game/randomizer
