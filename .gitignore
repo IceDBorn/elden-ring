@@ -2,7 +2,8 @@
 /.history/
 
 # Game specific
-/AdvGuide/
-/Game/
+AdvGuide/
+/Game/*
 
 # Exclude
+!/Game/start_protected_game.exe
