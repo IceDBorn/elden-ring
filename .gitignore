@@ -4,6 +4,7 @@
 # Game specific
 AdvGuide/
 /Game/*
+log.txt
 
 # Exclude
 !/Game/start_protected_game.exe
