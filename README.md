@@ -1,2 +1,2 @@
-# elden-ring
-Elden Ring with vanilla and mod-ready branches
+# Vanilla
+The vanilla state of the game
